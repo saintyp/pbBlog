@@ -112,6 +112,11 @@
     <Content Include="StyleSheet.css" />
     <Content Include="about.html" />
     <Content Include="GeneralFinance.html" />
+    <Content Include="routers.html" />
+    <Content Include="telephony.html" />
+    <Content Include="laptops.html" />
+    <Content Include="accessories.html" />
+    <Content Include="laptopbags.html" />
     <Content Include="theTrial3.html" />
     <Content Include="theTrial2.html" />
     <Content Include="theTrial1.html" />
