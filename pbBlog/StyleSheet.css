@@ -73,6 +73,15 @@ h1 {
 	margin-bottom: 1em;
 	width: 500px;
 }
+h2 {
+    font-family: Lora;
+	margin: auto;
+	font-size: 30px;
+    text-align: center;
+	margin-top: 2em;
+	margin-bottom: 1em;
+	width: 500px;
+}
 .bodyText {
 	font-family: Lora;
 	text-align: left;
