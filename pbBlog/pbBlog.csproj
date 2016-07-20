@@ -117,6 +117,12 @@
     <Content Include="laptops.html" />
     <Content Include="accessories.html" />
     <Content Include="laptopbags.html" />
+    <Content Include="kitchen.html" />
+    <Content Include="next.html" />
+    <Content Include="jobHunts.html" />
+    <Content Include="company.html" />
+    <Content Include="learning.html" />
+    <Content Include="tv.html" />
     <Content Include="theTrial3.html" />
     <Content Include="theTrial2.html" />
     <Content Include="theTrial1.html" />
