@@ -109,7 +109,7 @@
     <Content Include="Page1.html" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
-    <Content Include="StyleSheet.css" />
+    <Content Include="css\StyleSheet.css" />
     <Content Include="about.html" />
     <Content Include="GeneralFinance.html" />
     <Content Include="routers.html" />
@@ -131,6 +131,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="img\" />
+    <Folder Include="js\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
