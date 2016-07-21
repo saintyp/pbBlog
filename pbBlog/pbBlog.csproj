@@ -106,10 +106,27 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Template.html" />
+    <Content Include="Page1.html" />
     <Content Include="scripts\ai.0.22.9-build00167.js" />
     <Content Include="scripts\ai.0.22.9-build00167.min.js" />
     <Content Include="StyleSheet.css" />
+    <Content Include="about.html" />
+    <Content Include="GeneralFinance.html" />
+    <Content Include="routers.html" />
+    <Content Include="telephony.html" />
+    <Content Include="laptops.html" />
+    <Content Include="accessories.html" />
+    <Content Include="laptopbags.html" />
+    <Content Include="kitchen.html" />
+    <Content Include="next.html" />
+    <Content Include="jobHunts.html" />
+    <Content Include="company.html" />
+    <Content Include="learning.html" />
+    <Content Include="tv.html" />
+    <Content Include="theTrial3.html" />
+    <Content Include="theTrial2.html" />
+    <Content Include="theTrial1.html" />
+    <Content Include="Template.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
