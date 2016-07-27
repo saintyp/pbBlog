@@ -95,6 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="pbBlog" />
+    <None Include="pbBlogBranch" />
     <Content Include="otherFinance.html" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">

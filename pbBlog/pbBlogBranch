@@ -1,0 +1,10 @@
+﻿server {
+  listen 81 default_server;
+  server_name ubs2;
+  access_log /var/log/nginx/localhost.access.log;
+
+  location / {
+    root /var/www/pbBlogBranch/pbBlogBranch;
+    index index.html index.htm;
+  }
+}
